@@ -44,15 +44,3 @@ dart run main.dart
 
 ---
 
-## 🚀 Features
-
-- Card authentication
-- Language selection
-- Withdraw, deposit, and check balance
-- Transactions are handled via polymorphic classes
-
----
-
-## 💡 Educational Purpose
-
-This project is designed for beginners to understand **object-oriented programming in Dart** through a simple real-world simulation.
